@@ -1,3 +1,4 @@
+---
  - name: update the system
    yum:
      name: "*"
